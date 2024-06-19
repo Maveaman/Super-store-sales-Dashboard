@@ -1,4 +1,3 @@
-# Super-store-sales-Dashboard
 # SuperStore Sales Data Analysis and Forecasting Project
 
 ## Overview
@@ -47,7 +46,7 @@ These insights can help SuperStore optimize its sales strategies, drive growth, 
 
 ## Dashboard Snapshots
 
-![Dashboard Overview](path_to_dashboard_image)
+![Dashboard Overview] (https://drive.google.com/file/d/15aoMEJMVTk9PZ6L8UilWPjfg0iVAMyYB/view?usp=drivesdk) (https://drive.google.com/file/d/15Q5lE4gvdqPYw3ZuEImYxLOVNCyEekJZ/view?usp=drivesdk)
 
 ## Conclusion
 
